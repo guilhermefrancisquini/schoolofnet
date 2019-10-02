@@ -1,0 +1,3 @@
+D:\Projetos\SchoolofNet\dotnet\02-ASP.NETCoreMVC_EntityFrameworkCore\src\WebCore\obj\Debug\netcoreapp1.0\WebCore.csproj.CoreCompileInputs.cache
+D:\Projetos\SchoolofNet\dotnet\02-ASP.NETCoreMVC_EntityFrameworkCore\src\WebCore\obj\Debug\netcoreapp1.0\WebCore.AssemblyInfoInputs.cache
+D:\Projetos\SchoolofNet\dotnet\02-ASP.NETCoreMVC_EntityFrameworkCore\src\WebCore\obj\Debug\netcoreapp1.0\WebCore.AssemblyInfo.cs

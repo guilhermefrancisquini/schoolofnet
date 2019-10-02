@@ -1,0 +1,14 @@
+D:\Projetos\SchoolofNet\dotnet\apirest\bin\Debug\netcoreapp2.2\apirest.deps.json
+D:\Projetos\SchoolofNet\dotnet\apirest\bin\Debug\netcoreapp2.2\apirest.runtimeconfig.json
+D:\Projetos\SchoolofNet\dotnet\apirest\bin\Debug\netcoreapp2.2\apirest.runtimeconfig.dev.json
+D:\Projetos\SchoolofNet\dotnet\apirest\bin\Debug\netcoreapp2.2\apirest.dll
+D:\Projetos\SchoolofNet\dotnet\apirest\bin\Debug\netcoreapp2.2\apirest.pdb
+D:\Projetos\SchoolofNet\dotnet\apirest\obj\Debug\netcoreapp2.2\apirest.csprojAssemblyReference.cache
+D:\Projetos\SchoolofNet\dotnet\apirest\obj\Debug\netcoreapp2.2\apirest.csproj.CoreCompileInputs.cache
+D:\Projetos\SchoolofNet\dotnet\apirest\obj\Debug\netcoreapp2.2\apirest.RazorAssemblyInfo.cache
+D:\Projetos\SchoolofNet\dotnet\apirest\obj\Debug\netcoreapp2.2\apirest.RazorAssemblyInfo.cs
+D:\Projetos\SchoolofNet\dotnet\apirest\obj\Debug\netcoreapp2.2\apirest.AssemblyInfoInputs.cache
+D:\Projetos\SchoolofNet\dotnet\apirest\obj\Debug\netcoreapp2.2\apirest.AssemblyInfo.cs
+D:\Projetos\SchoolofNet\dotnet\apirest\obj\Debug\netcoreapp2.2\apirest.RazorTargetAssemblyInfo.cache
+D:\Projetos\SchoolofNet\dotnet\apirest\obj\Debug\netcoreapp2.2\apirest.dll
+D:\Projetos\SchoolofNet\dotnet\apirest\obj\Debug\netcoreapp2.2\apirest.pdb

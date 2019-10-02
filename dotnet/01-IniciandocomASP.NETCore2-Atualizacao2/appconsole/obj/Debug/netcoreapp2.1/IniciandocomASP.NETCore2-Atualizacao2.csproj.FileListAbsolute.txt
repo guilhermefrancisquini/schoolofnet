@@ -1,0 +1,11 @@
+D:\Projetos\SchoolofNet\IniciandocomASP.NETCore2-Atualizacao2\bin\Debug\netcoreapp2.1\IniciandocomASP.NETCore2-Atualizacao2.deps.json
+D:\Projetos\SchoolofNet\IniciandocomASP.NETCore2-Atualizacao2\bin\Debug\netcoreapp2.1\IniciandocomASP.NETCore2-Atualizacao2.runtimeconfig.json
+D:\Projetos\SchoolofNet\IniciandocomASP.NETCore2-Atualizacao2\bin\Debug\netcoreapp2.1\IniciandocomASP.NETCore2-Atualizacao2.runtimeconfig.dev.json
+D:\Projetos\SchoolofNet\IniciandocomASP.NETCore2-Atualizacao2\bin\Debug\netcoreapp2.1\IniciandocomASP.NETCore2-Atualizacao2.dll
+D:\Projetos\SchoolofNet\IniciandocomASP.NETCore2-Atualizacao2\bin\Debug\netcoreapp2.1\IniciandocomASP.NETCore2-Atualizacao2.pdb
+D:\Projetos\SchoolofNet\IniciandocomASP.NETCore2-Atualizacao2\obj\Debug\netcoreapp2.1\IniciandocomASP.NETCore2-Atualizacao2.csprojAssemblyReference.cache
+D:\Projetos\SchoolofNet\IniciandocomASP.NETCore2-Atualizacao2\obj\Debug\netcoreapp2.1\IniciandocomASP.NETCore2-Atualizacao2.csproj.CoreCompileInputs.cache
+D:\Projetos\SchoolofNet\IniciandocomASP.NETCore2-Atualizacao2\obj\Debug\netcoreapp2.1\IniciandocomASP.NETCore2-Atualizacao2.AssemblyInfoInputs.cache
+D:\Projetos\SchoolofNet\IniciandocomASP.NETCore2-Atualizacao2\obj\Debug\netcoreapp2.1\IniciandocomASP.NETCore2-Atualizacao2.AssemblyInfo.cs
+D:\Projetos\SchoolofNet\IniciandocomASP.NETCore2-Atualizacao2\obj\Debug\netcoreapp2.1\IniciandocomASP.NETCore2-Atualizacao2.dll
+D:\Projetos\SchoolofNet\IniciandocomASP.NETCore2-Atualizacao2\obj\Debug\netcoreapp2.1\IniciandocomASP.NETCore2-Atualizacao2.pdb

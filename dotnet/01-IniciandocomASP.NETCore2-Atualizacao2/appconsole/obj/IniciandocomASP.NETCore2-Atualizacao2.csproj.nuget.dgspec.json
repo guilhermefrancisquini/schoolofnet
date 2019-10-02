@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\Projetos\\SchoolofNet\\IniciandocomASP.NETCore2-Atualizacao2\\appconsole\\IniciandocomASP.NETCore2-Atualizacao2.csproj": {}
+  },
+  "projects": {
+    "d:\\Projetos\\SchoolofNet\\IniciandocomASP.NETCore2-Atualizacao2\\appconsole\\IniciandocomASP.NETCore2-Atualizacao2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Projetos\\SchoolofNet\\IniciandocomASP.NETCore2-Atualizacao2\\appconsole\\IniciandocomASP.NETCore2-Atualizacao2.csproj",
+        "projectName": "IniciandocomASP.NETCore2-Atualizacao2",
+        "projectPath": "d:\\Projetos\\SchoolofNet\\IniciandocomASP.NETCore2-Atualizacao2\\appconsole\\IniciandocomASP.NETCore2-Atualizacao2.csproj",
+        "packagesPath": "C:\\Users\\Guilherme Garimpa\\.nuget\\packages\\",
+        "outputPath": "d:\\Projetos\\SchoolofNet\\IniciandocomASP.NETCore2-Atualizacao2\\appconsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Guilherme Garimpa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
